@@ -2,6 +2,7 @@
 
 def loop_message_five_times
   message = "Hello World"
+  loop 
 end
 
 def loop_message_n_times
