@@ -1,8 +1,7 @@
 # Write your methods here
-
+message = "Hello World"
 def loop_message_five_times(message)
   count = 0
-  message = "Hello World"
   while count < 5
   print message
   count += 1 
