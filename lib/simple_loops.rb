@@ -30,5 +30,6 @@ def return_string_array(array)
   while count < array.length do
     new_array.push (array[count].to_s)
     count += 1 
-  endtyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyy66666666666666666666666666666666666666666666666666666666666666666666666666666666666666666666666666666666666666666666666666666666666666666                                     
+  end    
+  new_array
 end
